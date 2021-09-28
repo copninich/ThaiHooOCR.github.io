@@ -1,0 +1,8 @@
+site_name: ThaiHooOCR
+theme:
+  name: material
+  palette:
+    primary: pink
+repo_url: https://github.com/copninich/TH-National-Document-OCR
+repo_name: ThaiHooOCR
+copyright: Copyright &copy; 2021 ThaiHooOCR
